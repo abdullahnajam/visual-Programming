@@ -1,0 +1,12 @@
+c:\users\ultron\documents\visual studio 2015\Projects\Student Profile Assignment\Student Profile Assignment\bin\Debug\Student Profile Assignment.exe.config
+c:\users\ultron\documents\visual studio 2015\Projects\Student Profile Assignment\Student Profile Assignment\bin\Debug\Student Profile Assignment.exe
+c:\users\ultron\documents\visual studio 2015\Projects\Student Profile Assignment\Student Profile Assignment\bin\Debug\Student Profile Assignment.pdb
+c:\users\ultron\documents\visual studio 2015\Projects\Student Profile Assignment\Student Profile Assignment\obj\Debug\Student Profile Assignment.csprojResolveAssemblyReference.cache
+c:\users\ultron\documents\visual studio 2015\Projects\Student Profile Assignment\Student Profile Assignment\obj\Debug\Student Profile Assignment.exe
+c:\users\ultron\documents\visual studio 2015\Projects\Student Profile Assignment\Student Profile Assignment\obj\Debug\Student Profile Assignment.pdb
+C:\Users\Ultron\Documents\Visual Studio 2015\Projects\Student Profile Assignment\vp\Student Profile Assignment\bin\Debug\Student Profile Assignment.exe.config
+C:\Users\Ultron\Documents\Visual Studio 2015\Projects\Student Profile Assignment\vp\Student Profile Assignment\obj\Debug\Student Profile Assignment.exe
+C:\Users\Ultron\Documents\Visual Studio 2015\Projects\Student Profile Assignment\vp\Student Profile Assignment\obj\Debug\Student Profile Assignment.pdb
+C:\Users\Ultron\Documents\Visual Studio 2015\Projects\Student Profile Assignment\vp\Student Profile Assignment\bin\Debug\Student Profile Assignment.exe
+C:\Users\Ultron\Documents\Visual Studio 2015\Projects\Student Profile Assignment\vp\Student Profile Assignment\bin\Debug\Student Profile Assignment.pdb
+C:\Users\Ultron\Documents\Visual Studio 2015\Projects\Student Profile Assignment\vp\Student Profile Assignment\obj\Debug\Student Profile Assignment.csprojResolveAssemblyReference.cache
